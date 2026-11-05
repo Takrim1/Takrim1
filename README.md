@@ -64,9 +64,8 @@ A mobile application developed using Flutter to support tuition management.
 
 
 <p align="center">
-  <img src="https://vercel.app" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
 </p>
-
 ---
 
 ## 🌐 Connect With Me
