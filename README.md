@@ -25,7 +25,7 @@ I'm a Computer Science & Engineering student and Flutter developer passionate ab
 ## 💻 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,cpp,cs,python,java,mysql,git,github,vscode,androidstudio&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,flutter,dart,firebase,cpp,cs,python,mysql,git,github,vscode,androidstudio&perline=6" />
 </p>
 
 ---
