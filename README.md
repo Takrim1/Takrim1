@@ -46,7 +46,7 @@ A mobile application developed using Flutter to support tuition management.
 - GetX State Management
 - Google Mobile Ads
 
-🔗 [Explore My Projects](https://github.com/YOUR_USERNAME?tab=repositories)
+🔗 🔗 [Download Ghore Tuition on Google Play](https://play.google.com/store/apps/details?id=com.Zylenc.ghoretuition)
 
 ---
 
